@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "computer vision1", "computer vision1\computer vision1.vcxproj", "{56A2C615-B19C-4C5C-A97A-86D6CD60AC0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A2C615-B19C-4C5C-A97A-86D6CD60AC0C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{56A2C615-B19C-4C5C-A97A-86D6CD60AC0C}.Debug|Win32.Build.0 = Debug|Win32
+		{56A2C615-B19C-4C5C-A97A-86D6CD60AC0C}.Release|Win32.ActiveCfg = Release|Win32
+		{56A2C615-B19C-4C5C-A97A-86D6CD60AC0C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+			/***********
+			int corner_x = p.x;
+
+			for (int x = p.x; x < u->x && !lt.compare(tracer_unit(x, u->y)); x++) {
+				show_point(tracer_unit(x, p.y), RGB_GREEN, 0);
+				corner_x = x;
+			}
+
+			for (int x = p.x; x > u->x && !lt.compare(tracer_unit(x, u->y)); x--) {
+				show_point(tracer_unit(x, p.y), RGB_GREEN, 0);
+				corner_x = x;
+			}
+			*****************/
+
+
